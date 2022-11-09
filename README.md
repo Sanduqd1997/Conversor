@@ -27,3 +27,4 @@ El proyecto consiste en un conversor de divisas el cual permite convertir el val
 
 ## Demo del proyecto
 
+![image](https://github.com/Sanduqd1997/Reto1_Calculadora/blob/main/conversor.gif)
