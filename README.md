@@ -23,7 +23,7 @@ El proyecto consiste en un conversor de divisas el cual permite convertir el val
 1. Se selecciona la moneda de origen y la de destino
 2. En el primer cuadro de texto se digita el valor de la moneda usando los botones numéricos de abajo
 4. En el botón inferior derecho, el que tiene el icono de calculadora, se calcula la conversión
-5. En el botón de la izquierda del icono de la calculadora, el que tiene el icono de una brocha, permite borrar los datos de los dos cuadro de texto
+5. En el botón de la izquierda del icono de la calculadora, el que tiene el icono de una brocha, permite borrar los datos de los dos cuadros de texto
 
 ## Demo del proyecto
 
