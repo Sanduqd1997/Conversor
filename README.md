@@ -27,4 +27,4 @@ El proyecto consiste en un conversor de divisas el cual permite convertir el val
 
 ## Demo del proyecto
 
-![image](https://github.com/Sanduqd1997/Conversor/blob/main/conversor.gif)
+<a![image](https://github.com/Sanduqd1997/Conversor/blob/main/conversor.gif) width="300"/a>
