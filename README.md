@@ -1,6 +1,6 @@
 # Reto 1 Conversor
 
-Este es el reto 1 del Ciclo 4B Desarrollo de Aplicaciones Móviles 
+Este es el Reto 1 del Ciclo 4B Desarrollo de Aplicaciones Móviles de Misión TIC 2022
 
 ## Instalación
 
