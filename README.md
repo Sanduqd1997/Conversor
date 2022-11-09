@@ -1,16 +1,29 @@
-# conversor
+# Reto 1 Conversor
 
-A new Flutter project.
+Este es el reto 1 del Ciclo 4B Desarrollo de Aplicaciones Móviles 
 
-## Getting Started
+## Instalación
 
-This project is a starting point for a Flutter application.
+1. El proyecto se baja y se abre en un editor de texto, puede ser Visual Studio Code
 
-A few resources to get you started if this is your first Flutter project:
+2. En visual Studio Code presionar la tecla shift + ctrl + P y buscar Flutter: Select Device y seleccionar el dispositivo para ejecutar la aplicación
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Presionar F5 para iniciar el Debugging y la aplicación ya está ejecutada y funcionando
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Descripción del Proyecto
+
+El proyecto consiste en un conversor de divisas el cual permite convertir el valor de tres divisas (Dólar, Euro, Peso Colombiano) de la siguiente manera:
+
+- Euro a Dólar (EUR a USD)
+- Euro a Peso Colombiano (EUR a COP)
+- Dólar a Peso Colombiano (USD a COP)
+
+- En sentido contrario
+
+1. Se selecciona la moneda de origen y la de destino
+2. En el primer cuadro de texto se digita el valor de la moneda usando los botones numéricos de abajo
+4. En el botón inferior derecho, el que tiene el icono de calculadora, se calcula la conversión
+5. En el botón de la izquierda del icono de la calculadora, el que tiene el icono de una brocha, permite borrar los datos de los dos cuadro de texto
+
+## Demo del proyecto
+
